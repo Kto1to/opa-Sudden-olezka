@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>opa-Sudden-Olezka</name>
+    <directory>opa-sudden-olezka</directory>
+    <id>3707429771</id>
+    <description>Представляю вашему вниманию мод внезапный Олежка.
+Этот мод представляет из себя крайне редкий шанс 1 к 1 000 000 (0,0001 %), при котором в игре внезапно появляется сам Олежка Либо. Шанс полностью настраивается через Mod Config Menu - от почти полного отсутствия до довольно частых и неожиданных визитов.
+Мод был вдохновлён замечательным модом «Опа, внезапный Серега Бурунов» - https://steamcommunity.com/sharedfiles/filedetails/?id=3589874271&amp;searchtext=%D0%B1%D1%83%D1%80%D1%83%D0%BD%D0%BE%D0%B2, а тот, в свою очередь, был вдохновлён оригинальным Random Foxy Jumpscare - https://steamcommunity.com/sharedfiles/filedetails/?id=3410284721&amp;searchtext=foxy.
+Здесь Олежка получил три уникальных звука разной длины, грациозную анимацию и плавный переход в статический шум после появления. Всё сделано максимально атмосферно и неожиданно, чтобы каждый скример оставлял яркое впечатление.</description>
+    <version>1.3</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Graphics"/>
+    <tag id="Sound Effects"/>
+</metadata>
