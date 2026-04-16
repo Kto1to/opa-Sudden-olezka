@@ -1,0 +1,9 @@
+<sounds root="sfx/">
+
+    <sound name="OlezhkaJumpscare">
+        <sample weight="1" path="olezhka_scare1.wav" />
+        <sample weight="1" path="olezhka_scare2.wav" />
+	<sample weight="1" path="olezhka_scare3.wav" />
+    </sound>
+
+</sounds>
